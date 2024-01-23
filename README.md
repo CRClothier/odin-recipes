@@ -1,1 +1,0 @@
-Making a basic Recipe Website usingv only HTML as a way to practice correct HTML tag usage and get used to using git and GitHub. 
